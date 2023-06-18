@@ -1,0 +1,32 @@
+body{
+    color: rgb(175, 231, 196);
+    background-color: #325038;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 5px;
+    margin: auto;
+ }
+
+ .contenedor{
+    background-color: #243c35;
+    border: 2px solid rgb(130, 158, 78);
+    border-radius: 4px;
+    width: 400px;
+    max-width: 100%;
+    margin: auto;
+    margin-top: 50px;
+    margin-left: 250px;
+    margin-right: 250px;    
+    text-align: justify;
+    padding: 30px; 
+}
+
+.controlForma {
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    position: relative;
+    margin: auto;
+}
